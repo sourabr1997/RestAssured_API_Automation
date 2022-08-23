@@ -42,6 +42,7 @@ public class ExtentManager_API {
 	
 	public static void endReport() {
 		extent.flush();
+		
 	}
 
 }
